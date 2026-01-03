@@ -1,4 +1,4 @@
-# STRATA: 2011-MAR (The Farewell)
+# STRATA: 2011-APR (The Farewell)
 
 This stratum captures the transition of power and the final silence. 
 Documenting the period surrounding Satoshi Nakamoto's departure and the last known heartbeats of the early era.
