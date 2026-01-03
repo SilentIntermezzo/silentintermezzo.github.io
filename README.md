@@ -19,7 +19,7 @@
 * **历史价值：** 产出时间仅相差3小时，诞生于创世区块后仅数周。这两枚聪捕捉到了比特币网络最初的律动。
 
 ### II. SYMMETRY AND COMMERCE / 对称与初商
-* **Block Context:** 36822 & 37233 (May 2010)
+* **Block Context:** 36822 & 37233 (Jan 2010)
 * **Archaeological Value:** A study in mathematical symmetry (Palindrome) and the dawn of real-world value during the "Pizza Era."
 * **历史价值：** 数学对称性（回文）的研究，以及“披萨时代”开启的现实价值曙光。
 
