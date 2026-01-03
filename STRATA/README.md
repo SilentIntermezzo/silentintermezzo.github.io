@@ -7,4 +7,4 @@ Each file serves as a cross-reference for the 8 rare satoshis, documenting their
 每一份文件都作为 8 枚稀有聪的交叉验证，记录了它们的起源及其见证的重大历史事件。
 
 ---
-*Verified on-chain. Secured for the 2029 Auction.*
+*Verified on-chain. Preserved for the 20th Anniversary (2029).*
