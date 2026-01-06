@@ -1,3 +1,13 @@
+# 🏛️ SILENT INTERMEZZO
+
+> **The intermezzo begins on January 9.**
+> **间奏将于 1 月 9 日开启。**
+>
+> *Silence is the loudest note. 静默是最响亮的音符。*
+
+---
+
+
 # SILENT INTERMEZZO: Early History of Bitcoin (2009-2013)
 ### 寂静的间奏：比特币早期断代史 (2009-2013)
 
