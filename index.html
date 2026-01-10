@@ -160,36 +160,43 @@
     </footer>
 <style>
     .archival-footer {
-        margin-top: 100px;
-        padding: 40px 0;
-        border-top: 1px solid #1a1a1a; /* 极细的深色分割线 */
+        /* 将距离从 100px 缩小到 40px，让上下联系更紧密 */
+        margin-top: 40px; 
+        padding-bottom: 60px;
         text-align: center;
-        font-family: 'Courier New', Courier, monospace; /* 保持技术名录的字体感 */
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    /* 增加一条短横线作为视觉过渡，宽度仅为 30px */
+    .archival-footer::before {
+        content: "";
+        display: block;
+        width: 30px;
+        height: 1px;
+        background-color: #333;
+        margin: 0 auto 20px auto;
     }
 
     .official-link {
-        color: #333; /* 初始颜色较深，接近背景 */
+        color: #555; 
         text-decoration: none;
-        font-size: 12px;
+        font-size: 11px; /* 稍微缩小字号，增加精致感 */
         letter-spacing: 2px;
         transition: all 0.5s ease;
         text-transform: uppercase;
     }
 
     .official-link:hover {
-        color: #888; /* 悬停时变为浅灰色 */
-        letter-spacing: 4px; /* 产生一种呼吸展开的动效 */
-    }
-
-    .official-link span {
-        font-weight: bold;
+        color: #aaa;
+        letter-spacing: 3px;
     }
 </style>
 
 <div class="archival-footer">
     <a href="https://twitter.com/mezzosats" target="_blank" class="official-link">
-        Official: <span>@mezzosats</span>
+        OFFICIAL: @mezzosats
     </a>
 </div>
+
 </body>
 </html>
